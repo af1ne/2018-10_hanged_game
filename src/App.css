@@ -3,12 +3,19 @@
   color: white;
 }
 
-
-
-.wordGuesses {
+.app-letters {
   display: flex;
   justify-content: center;
-  
 }
+
+.buttons-board {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  width: 60vw;
+  height: auto;
+  margin: auto;
+}
+
 
 
